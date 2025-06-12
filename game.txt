@@ -1,11 +1,11 @@
 Nama kelompok: 
 Nadya Giska Winingsih	 (233303030377)
-Thrichell Jeevika 	 (233303030358)
-Mawar			 (233303030331)
+Thrichell Jeevika 	   (233303030358)
+Mawar			             (233303030331)
 ⁠isnaini khairunnisa 	 (233303030323)
-Simon Rafael 		 (233303030321)
+Simon Rafael 		       (233303030321)
 Jerry Agispa Ginting 	 (233303030367)
 
-
-
+Tema:
+Web housekeeping dengan menggunakan CRUD 
 
